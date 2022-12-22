@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    background: black;
+    color: darkorange;
+    display: flex;
+    flex-direction: column;
+    padding: 200px 10px;
+}
+
+h1{
+    font-size: 2vw;
+    font-weight: bold;
+}
+
+.lorem-text{
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.result{
+    padding: 1rem;
+}
